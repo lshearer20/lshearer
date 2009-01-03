@@ -1,0 +1,29 @@
+C:\Users\jacob\OneDrive\Documents\Fall 2019\CPTS 422\CS422\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\jacob\OneDrive\Documents\Fall 2019\CPTS 422\CS422\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\jacob\OneDrive\Documents\Fall 2019\CPTS 422\CS422\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\jacob\OneDrive\Documents\Fall 2019\CPTS 422\CS422\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\jacob\OneDrive\Documents\Fall 2019\CPTS 422\CS422\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\jacob\OneDrive\Documents\Fall 2019\CPTS 422\CS422\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\jacob\OneDrive\Documents\Fall 2019\CPTS 422\CS422\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\jacob\OneDrive\Documents\Fall 2019\CPTS 422\CS422\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Documents\Fall 2019\CPTS 422\CS422\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\jacob\OneDrive\Documents\Fall 2019\CPTS 422\CS422\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\luket\Desktop\Fall 2019\422 Software Engr Principle II\repository\CS422\CS422\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\luket\Desktop\Fall 2019\422 Software Engr Principle II\repository\CS422\CS422\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\luket\Desktop\Fall 2019\422 Software Engr Principle II\repository\CS422\CS422\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\luket\Desktop\Fall 2019\422 Software Engr Principle II\repository\CS422\CS422\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\luket\Desktop\Fall 2019\422 Software Engr Principle II\repository\CS422\CS422\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\luket\Desktop\Fall 2019\422 Software Engr Principle II\repository\CS422\CS422\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\luket\Desktop\Fall 2019\422 Software Engr Principle II\repository\CS422\CS422\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\luket\Desktop\Fall 2019\422 Software Engr Principle II\repository\CS422\CS422\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\luket\Desktop\Fall 2019\422 Software Engr Principle II\repository\CS422\CS422\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\luket\Desktop\Fall 2019\422 Software Engr Principle II\repository\CS422\CS422\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\luket\Desktop\Fall2019\422_Software_Engr_Principle_II\repository\CS422\CS422\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\luket\Desktop\Fall2019\422_Software_Engr_Principle_II\repository\CS422\CS422\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\luket\Desktop\Fall2019\422_Software_Engr_Principle_II\repository\CS422\CS422\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\luket\Desktop\Fall2019\422_Software_Engr_Principle_II\repository\CS422\CS422\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\luket\Desktop\Fall2019\422_Software_Engr_Principle_II\repository\CS422\CS422\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\luket\Desktop\Fall2019\422_Software_Engr_Principle_II\repository\CS422\CS422\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\luket\Desktop\Fall2019\422_Software_Engr_Principle_II\repository\CS422\CS422\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\luket\Desktop\Fall2019\422_Software_Engr_Principle_II\repository\CS422\CS422\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\luket\Desktop\Fall2019\422_Software_Engr_Principle_II\repository\CS422\CS422\Calculator\Calculator\obj\Debug\Calculator.pdb
